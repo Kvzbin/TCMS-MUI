@@ -1,0 +1,16 @@
+/* .home-box {
+    border: 1.5px solid whitesmoke;
+    width: 24%;
+    height: 75%;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+} */
+
+.css-1ifbsno-MuiButtonBase-root-MuiIconButton-root {
+    display: none;
+}
+
+/* .MuiBox-root {
+    display: none;
+} */

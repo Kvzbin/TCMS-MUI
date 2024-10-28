@@ -1,0 +1,11 @@
+.nav-right-btn a {
+    text-decoration: none;
+    color: black;
+}
+
+.burger a {
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    margin-left: 5px;
+}

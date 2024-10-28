@@ -1,0 +1,28 @@
+@keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+
+  /* Apply the animation to the settings icon */
+.settings-icon {
+    display: inline-block;
+    animation: spin 2s linear infinite;
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Adjust size as needed */
+    background-size: contain; /* Ensure the icon scales correctly */
+  }
+  
+  /* Optional: Add hover effect */
+  .settings-icon:hover {
+    animation: spin 1s linear infinite; /* Speed up the animation on hover */
+  }
+
+
+  .setting-grid {
+    padding: 10px 0;
+  }
